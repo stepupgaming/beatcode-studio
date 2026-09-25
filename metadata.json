@@ -1,0 +1,6 @@
+{
+  "name": "BeatCode Studio",
+  "description": "A browser-based audio-reactive visual studio with 100 beat-driven techniques, live picture switching, editable code, AI generation, and local video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API", "MAJOR_CAPABILITY_AUDIO_CAPTURE", "MAJOR_CAPABILITY_VIDEO_EXPORT"]
+}
